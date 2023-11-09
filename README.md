@@ -1,4 +1,6 @@
 ## Tampilan awal
+https://akhrf.github.io/Ass_AhmadKartaNugraha/
+
 ```js
     <nav class="bg-black mt-52 mr-72 ml-72 mb-52">
     <form class="text-center bg-gray-500 p-20 rounded-lg" name="login" action="hal2.html" method="post">
@@ -18,11 +20,11 @@
     </nav>
 ```
 ## Hasilnya
-```js
-![img/1.png](https://github.com/akhrf/Ass_AhmadKartaNugraha/blob/main/img/1.png?raw=true)
-```
+![Image](https://github.com/akhrf/Ass_AhmadKartaNugraha/blob/main/img/1.png)
 disini saya membuat form untuk masuk ke tampilan list barang
 ## Tampilan Kedua
+https://akhrf.github.io/Ass_AhmadKartaNugraha/list.html
+
 ```js
     <div>
     <section class="container mx-auto my-8 p-8 bg-white shadow-lg rounded-lg">
@@ -104,7 +106,5 @@ disini saya membuat form untuk masuk ke tampilan list barang
     </section>
 ```
 ## Hasilnya
-```js
-[img/2.png](https://github.com/akhrf/Ass_AhmadKartaNugraha/blob/main/img/2.png?raw=true)
-```
+![Image](https://github.com/akhrf/Ass_AhmadKartaNugraha/blob/main/img/2.png)
 jika saya scroll kebawah akan menampilkan nama barang,list barang,dan button untuk melihat harga
