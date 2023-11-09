@@ -19,7 +19,7 @@
 ```
 ## Hasilnya
 ```js
-![alt text](https://github.com/akhrf/Ass_AhmadKartaNugraha/blob/main/img/1.png)
+![alt text](https://github.com/akhrf/Ass_AhmadKartaNugraha/blob/main/img/1.png?raw=true)
 ```
 disini saya membuat form untuk masuk ke tampilan list barang
 ## Tampilan Kedua
@@ -105,6 +105,6 @@ disini saya membuat form untuk masuk ke tampilan list barang
 ```
 ## Hasilnya
 ```js
-[alt text](https://github.com/akhrf/Ass_AhmadKartaNugraha/blob/main/img/2.png)
+[alt text](https://github.com/akhrf/Ass_AhmadKartaNugraha/blob/main/img/2.png?raw=true)
 ```
 jika saya scroll kebawah akan menampilkan nama barang,list barang,dan button untuk melihat harga
