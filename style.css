@@ -2,10 +2,7 @@ form{
     border-radius: 15px;
     background: rgb(220, 220, 220);
     padding: 24px;
-    margin-top: 200px;
-    margin-bottom: 200px;
-    margin-left: 300px;
-    margin-right: 300px;
+
     box-shadow: 0 0 20px black;
 }
 input{
